@@ -1,0 +1,30 @@
+{
+  "name": "profile-card",
+  "version": "1.0.0",
+  "description": "gfe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinleaves/profile-card.git"
+  },
+  "author": "kevin le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinleaves/profile-card/issues"
+  },
+  "homepage": "https://github.com/kevinleaves/profile-card#readme",
+  "devDependencies": {
+    "vite": "^5.4.18"
+  },
+  "type": "module",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.4",
+    "tailwindcss": "^4.1.4"
+  }
+}
